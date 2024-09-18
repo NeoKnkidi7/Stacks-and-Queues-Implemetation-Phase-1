@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=UniversityStakeHolder
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ UniversityStakeHolder\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=UniversityStakeHolder()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment11.params=other
+comment11.target=int\ compareTo(UniversityStakeHolder)
+comment2.params=firstName\ lastName\ universityNumber
+comment2.target=UniversityStakeHolder(java.lang.String,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getFirstName()
+comment4.params=
+comment4.target=java.lang.String\ getLastName()
+comment5.params=
+comment5.target=int\ getUniversityNumber()
+comment6.params=firstName
+comment6.target=void\ setFirstName(java.lang.String)
+comment7.params=lastName
+comment7.target=void\ setLastName(java.lang.String)
+comment8.params=universityNumber
+comment8.target=void\ setUniversityNumber(int)
+comment9.params=
+comment9.target=void\ institutionRole()
+numComments=12

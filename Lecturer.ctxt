@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Lecturer
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Professor\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Lecturer()
+comment2.params=firstName\ lastName\ universityNumber\ faculty
+comment2.target=Lecturer(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getFaculty()
+comment4.params=faculty
+comment4.target=void\ setFaculty(java.lang.String)
+comment5.params=
+comment5.target=void\ institutionRole()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
